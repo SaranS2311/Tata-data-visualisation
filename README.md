@@ -82,13 +82,7 @@ Completed practical tasks in:
 
 📄 [View Certificate](./certificate/completion_certificate.pdf)
 
----
 
-## 👤 Author
-
-**Saran Senthil Kumaran**  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile]
 
 ---
 
